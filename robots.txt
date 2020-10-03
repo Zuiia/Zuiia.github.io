@@ -1,4 +1,6 @@
 User-Agent: *
+Allow: /assets/KAT_PBJ_Banner.jpg
+Allow: /assets/KAT_PBJ_Banner.png
 Disallow: /assets/
 Allow: /
 Crawl-delay: 10
