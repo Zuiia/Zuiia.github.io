@@ -5,3 +5,4 @@ Disallow: /assets/
 Allow: /
 Crawl-delay: 10
 
+Sitemap: https://katpbj.com/sitemap.xml
